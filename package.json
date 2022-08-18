@@ -1,0 +1,16 @@
+{
+  "name": "movie-info",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "ctec",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "description": ""
+}
